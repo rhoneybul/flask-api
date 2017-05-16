@@ -1,0 +1,353 @@
+{
+  "Wang, Dr Jin": {
+    "Profile": "http://www.web.uwa.edu.au/person/jin.wang", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 54, 
+    "Name": "Wang, Dr Jin"
+  }, 
+  "Kelso, Dr Joel": {
+    "Profile": "http://www.web.uwa.edu.au/person/Joel.Kelso", 
+    "Positions": [
+      "Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Joel.Kelso", 
+    "id": 24, 
+    "Name": "Kelso, Dr Joel"
+  }, 
+  "Barrett, Professor Hugh": {
+    "Profile": "http://www.web.uwa.edu.au/person/hugh.barrett", 
+    "Positions": [
+      "Professor in Systems Biology: Computer Science and Software Engineering, School of", 
+      "Chair, Animal Ethics Committee: Animal Ethics", 
+      "Associate Dean (Research): Health and Medical Sciences, Faculty of", 
+      "Professor in Systems Biology: Medicine and Pharmacology, School of, Royal Perth Hospital Unit"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/hugh.barrett", 
+    "id": 4, 
+    "Name": "Barrett, Professor Hugh"
+  }, 
+  "Mahmood, Dr Arif": {
+    "Profile": "http://www.web.uwa.edu.au/person/arif.mahmood", 
+    "Positions": [
+      "Adjunct Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 32, 
+    "Name": "Mahmood, Dr Arif"
+  }, 
+  "Gardiner, Assoc/Prof Bruce": {
+    "Profile": "http://www.web.uwa.edu.au/person/bruce.gardiner", 
+    "Positions": [
+      "Associate Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 15, 
+    "Name": "Gardiner, Assoc/Prof Bruce"
+  }, 
+  "Barone, Dr Luigi": {
+    "Profile": "http://www.web.uwa.edu.au/person/Luigi.Barone", 
+    "Positions": [
+      "Adjunct Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Luigi.Barone", 
+    "id": 3, 
+    "Name": "Barone, Dr Luigi"
+  }, 
+  "Peng, Dr Xiaoming": {
+    "Profile": "http://www.web.uwa.edu.au/person/xiaoming.peng", 
+    "Positions": [
+      "Honorary Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 41, 
+    "Name": "Peng, Dr Xiaoming"
+  }, 
+  "Gilani, Mr Syed Zulqarnain": {
+    "Profile": "http://www.web.uwa.edu.au/person/zulqarnain.gilani", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 16, 
+    "Name": "Gilani, Mr Syed Zulqarnain"
+  }, 
+  "Liu, Dr Wei": {
+    "Profile": "http://www.web.uwa.edu.au/person/Wei.Liu", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Wei.Liu", 
+    "id": 29, 
+    "Name": "Liu, Dr Wei"
+  }, 
+  "An, Dr Senjian": {
+    "Profile": "http://www.web.uwa.edu.au/person/senjian.an", 
+    "id": 1, 
+    "Name": "An, Dr Senjian"
+  }, 
+  "Naseem, Dr Imran": {
+    "Profile": "http://www.web.uwa.edu.au/person/imran.naseem", 
+    "Positions": [
+      "Honorary Research Fellow: Electrical, Electronic and Computer Engineering, School of", 
+      "Honorary Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/imran.naseem", 
+    "id": 39, 
+    "Name": "Naseem, Dr Imran"
+  }, 
+  "Kozera, Adj/A/Prof Ryszard": {
+    "Profile": "http://www.web.uwa.edu.au/person/Ryszard.Kozera", 
+    "Positions": [
+      "Adjunct Associate Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 25, 
+    "Name": "Kozera, Adj/A/Prof Ryszard"
+  }, 
+  "Shafait, Dr Faisal": {
+    "Profile": "http://www.web.uwa.edu.au/person/faisal.shafait", 
+    "Positions": [
+      "Adjunct Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 48, 
+    "Name": "Shafait, Dr Faisal"
+  }, 
+  "Woodings, Adj/Prof Terry": {
+    "Profile": "http://www.web.uwa.edu.au/person/terry.woodings", 
+    "Positions": [
+      "Adjunct Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 57, 
+    "Name": "Woodings, Adj/Prof Terry"
+  }, 
+  "McCabe-Dansted, Dr John": {
+    "Profile": "http://www.web.uwa.edu.au/person/john.mccabe-dansted", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 33, 
+    "Name": "McCabe-Dansted, Dr John"
+  }, 
+  "Lee, Dr Chang-Joon": {
+    "Profile": "http://www.web.uwa.edu.au/person/chang-joon.lee", 
+    "Positions": [
+      "Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 27, 
+    "Name": "Lee, Dr Chang-Joon"
+  }, 
+  "El-Sallam, Dr Amar": {
+    "Profile": "http://www.web.uwa.edu.au/person/amar.el-sallamabd", 
+    "Positions": [
+      "Adjunct Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 11, 
+    "Name": "El-Sallam, Dr Amar"
+  }, 
+  "Reid, Professor T Alex": {
+    "Profile": "http://www.web.uwa.edu.au/person/Alex.Reid", 
+    "Positions": [
+      "Honorary Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Alex.Reid", 
+    "id": 45, 
+    "Name": "Reid, Professor T Alex"
+  }, 
+  "Milne, Professor George": {
+    "Profile": "http://www.web.uwa.edu.au/person/George.Milne", 
+    "Positions": [
+      "Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/George.Milne", 
+    "id": 37, 
+    "Name": "Milne, Professor George"
+  }, 
+  "McDonald, Dr Chris": {
+    "Profile": "http://www.web.uwa.edu.au/person/Chris.McDonald", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 34, 
+    "Name": "McDonald, Dr Chris"
+  }, 
+  "Li, Dr Jianxin": {
+    "Profile": "http://www.web.uwa.edu.au/person/jianxin.li", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/jianxin.li", 
+    "id": 28, 
+    "Name": "Li, Dr Jianxin"
+  }, 
+  "Shah, Dr Syed Afaq Ali": {
+    "Profile": "http://www.web.uwa.edu.au/person/afaq.shah", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 49, 
+    "Name": "Shah, Dr Syed Afaq Ali"
+  }, 
+  "Sohel, Dr Ferdous": {
+    "Profile": "http://www.web.uwa.edu.au/person/ferdous.sohel", 
+    "Positions": [
+      "Adjunct Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/ferdous.sohel", 
+    "id": 52, 
+    "Name": "Sohel, Dr Ferdous"
+  }, 
+  "Islam, Dr Syed": {
+    "Profile": "http://www.web.uwa.edu.au/person/syed.islam", 
+    "Positions": [
+      "Adjunct Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/syed.islam", 
+    "id": 21, 
+    "Name": "Islam, Dr Syed"
+  }, 
+  "Mehdizadeh, Dr Arash": {
+    "Profile": "http://www.web.uwa.edu.au/person/arash.mehdizadeh", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 35, 
+    "Name": "Mehdizadeh, Dr Arash"
+  }, 
+  "Huynh, Dr Du": {
+    "Profile": "http://www.web.uwa.edu.au/person/Du.Huynh", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Du.Huynh", 
+    "id": 19, 
+    "Name": "Huynh, Dr Du"
+  }, 
+  "Bennamoun, W/Prof Mohammed": {
+    "Profile": "http://www.web.uwa.edu.au/person/mohammed.bennamoun", 
+    "Positions": [
+      "Winthrop Professor: Computer Science and Software Engineering, School of", 
+      "Winthrop Professor: Oceans Institute and Graduate School"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/mohammed.bennamoun", 
+    "id": 5, 
+    "Name": "Bennamoun, W/Prof Mohammed"
+  }, 
+  "Mian, Assoc/Prof Ajmal Saeed": {
+    "Profile": "http://www.web.uwa.edu.au/person/ajmal.mian", 
+    "Positions": [
+      "Principal Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/ajmal.mian", 
+    "id": 36, 
+    "Name": "Mian, Assoc/Prof Ajmal Saeed"
+  }, 
+  "Kar, Dr Saptarshi": {
+    "Profile": "http://www.web.uwa.edu.au/person/saptarshi.kar", 
+    "Positions": [
+      "Research Associate: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 23, 
+    "Name": "Kar, Dr Saptarshi"
+  }, 
+  "While, Dr Lyndon": {
+    "Profile": "http://www.web.uwa.edu.au/person/Lyndon.While", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Lyndon.While", 
+    "id": 55, 
+    "Name": "While, Dr Lyndon"
+  }, 
+  "Datta, Professor Amitava": {
+    "Profile": "http://www.web.uwa.edu.au/person/Amitava.Datta", 
+    "Positions": [
+      "Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 9, 
+    "Name": "Datta, Professor Amitava"
+  }, 
+  "Cardell-Oliver, Assoc/Prof Rachel": {
+    "Profile": "http://www.web.uwa.edu.au/person/Rachel.Cardell-Oliver", 
+    "Positions": [
+      "Associate Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Rachel.Cardell-Oliver", 
+    "id": 7, 
+    "Name": "Cardell-Oliver, Assoc/Prof Rachel"
+  }, 
+  "MacNish, Assoc/Prof Cara": {
+    "Profile": "http://www.web.uwa.edu.au/person/Cara.MacNish", 
+    "Positions": [
+      "Chair: Academic Board and Council", 
+      "Associate Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/cara.macnish", 
+    "id": 31, 
+    "Name": "MacNish, Assoc/Prof Cara"
+  }, 
+  "Wise, Assoc/Prof Michael J.": {
+    "Profile": "http://www.web.uwa.edu.au/person/Michael.Wise", 
+    "Positions": [
+      "Associate Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Michael.Wise", 
+    "id": 56, 
+    "Name": "Wise, Assoc/Prof Michael J."
+  }, 
+  "French, Dr Tim": {
+    "Profile": "http://www.web.uwa.edu.au/person/Tim.French", 
+    "Positions": [
+      "Senior Lecturer: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Tim.French", 
+    "id": 13, 
+    "Name": "French, Dr Tim"
+  }, 
+  "Reynolds, Assoc/Prof Mark": {
+    "Profile": "http://www.web.uwa.edu.au/person/Mark.Reynolds", 
+    "Positions": [
+      "Head of School: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/Mark.Reynolds", 
+    "id": 46, 
+    "Name": "Reynolds, Assoc/Prof Mark"
+  }, 
+  "Smyth, Adj/Prof William": {
+    "Profile": "http://www.web.uwa.edu.au/person/william.smyth", 
+    "Positions": [
+      "Adjunct Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 51, 
+    "Name": "Smyth, Adj/Prof William"
+  }, 
+  "Rahmani, Mr Hossein": {
+    "Profile": "http://www.web.uwa.edu.au/person/hossein.rahmani", 
+    "Positions": [
+      "Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "Image": "https://apps.weboffice.uwa.edu.au/contact-directory-photo/hossein.rahmani", 
+    "id": 43, 
+    "Name": "Rahmani, Mr Hossein"
+  }, 
+  "Smith, Professor David": {
+    "Profile": "http://www.web.uwa.edu.au/person/david.smith", 
+    "Positions": [
+      "Senior Principal Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 50, 
+    "Name": "Smith, Professor David"
+  }, 
+  "Hubner, Adj/Prof Christof": {
+    "Profile": "http://www.web.uwa.edu.au/person/christof.hubner", 
+    "Positions": [
+      "Adjunct Professor: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 18, 
+    "Name": "Hubner, Adj/Prof Christof"
+  }, 
+  "Ravanbakhsh, Dr Mehdi": {
+    "Profile": "http://www.web.uwa.edu.au/person/mehdi.ravanbakhsh", 
+    "Positions": [
+      "Adjunct Research Fellow: Computer Science and Software Engineering, School of"
+    ], 
+    "id": 44, 
+    "Name": "Ravanbakhsh, Dr Mehdi"
+  }
+}
